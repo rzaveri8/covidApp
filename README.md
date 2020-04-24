@@ -23,20 +23,20 @@ Use COVID-19 API to build mobile application that displays:
 ![demo](/imgs/homepage.png) 
 
 #### World Summary Screen
-![demo](/imgs/summary.PNG)
+![demo](/imgs/summary.png)
 
 #### Search Data Screen
-![demo](/imgs/search_ex.PNG)
+![demo](/imgs/search_ex.png)
 
-![demo](/imgs/search_correct.PNG)
+![demo](/imgs/search_correct.png)
 
 ##### Error Checking
-![demo](/imgs/search_wrong_country.PNG)
+![demo](/imgs/search_wrong_country.png)
 
-![demo](/imgs/search_wrong_date.PNG)
+![demo](/imgs/search_wrong_date.png)
 
 #### Live Map Screen
-![demo](/imgs/map.PNG)
+![demo](/imgs/map.png)
 
 ## Running the App
 
@@ -51,7 +51,7 @@ Run ```npm start``` to run the application.
 
 Run the app on a virtual machine on your laptop. 
 
-### or
+#### or
 
 Download the ```expo``` app on your phone, scan the QR code and open the app there. 
 
