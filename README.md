@@ -20,7 +20,7 @@ Use COVID-19 API to build mobile application that displays:
 ## Application Demo
 
 #### Home Screen
-![demo](/imgs/homepage.PNG) 
+![demo](/imgs/homepage.png) 
 
 #### World Summary Screen
 ![demo](/imgs/summary.PNG)
