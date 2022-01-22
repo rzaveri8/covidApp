@@ -13,7 +13,7 @@
     "@react-navigation/bottom-tabs": "^5.2.7",
     "expo": "^35.0.0",
     "fetch": "^1.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "16.8.3",
     "react-country-region-selector": "^2.1.0",
     "react-dom": "16.8.3",
